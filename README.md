@@ -1,5 +1,7 @@
-# 구현 이미지
-<img src="https://github.com/Imeanstar/react-hw/assets/81348938/29928280-178a-498c-af21-1fe7f887d988" width="220" height="300">
+|[피그마 링크](https://www.figma.com/file/0cfA0BU2Fe60J9C9jPHRug/Untitled?type=design&node-id=0%3A1&mode=dev)|구현 이미지|
+|--|--|
+|<img src="https://github.com/Imeanstar/react-hw/assets/81348938/082cd0bc-54cb-4d52-8423-d2b069744aed" width="220" height="300">|<img src="https://github.com/Imeanstar/react-hw/assets/81348938/29928280-178a-498c-af21-1fe7f887d988" width="220" height="300">|
+
 
 # code review
 ### main.jsx
